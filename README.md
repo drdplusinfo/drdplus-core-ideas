@@ -5,5 +5,5 @@
 - pokud jsou čísla shodná, zvítězila obrana
 
 ## Stříbrná pravidla
-- Centrální tabulka bonusů
+- centrální tabulka bonusů
 - sčítej hodnoty, pokud je znáš, ne bonusy, u kterých se ztrácí přesnost
