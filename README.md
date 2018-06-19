@@ -21,3 +21,8 @@ _Při boji se musí co **nejméně přemýšlet nad pravidly**. To ať si dělá
 
 Jestli něco lidé dokáží dokonale, tak to je zamilovat se do čísel a pak se v nich ztratit. Každé číslo svádí ke kombinacím, upoutává pozornost a odvádí ji od původního smyslu.
 Proto je potřeba nejdříve popsat, ideálně příběhem a poté krátce suchým popisem, hledaný smysl a teprve **poté** ho vyjádřit v číslech. Ať už jde o střelbu, kouzlení, modlitbu nebo skákání do vody.
+
+##### Pravidla jsou podmínky, ne výjimky
+
+ - postih -2 k síle za držení v druhé ruce nyní neplatí pro štít
+  - co je na něm **tak** speciálního, že se musí kvůli němo zavádět další pravidlo? to nestačí snížit potřebnou sílu štítu o dva v Tabulce štítů?
